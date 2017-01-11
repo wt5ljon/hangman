@@ -1,0 +1,39 @@
+--- !ruby/object:Game
+word: outburst
+guess: o_t____t
+letters:
+- a
+- b
+- c
+- d
+- ''
+- f
+- g
+- ''
+- ''
+- j
+- k
+- l
+- m
+- n
+- ''
+- ''
+- q
+- r
+- s
+- ''
+- u
+- v
+- w
+- x
+- y
+- z
+guesses_remaining: 3
+correct_letters:
+- o
+- t
+incorrect_letters:
+- p
+- h
+- e
+- i

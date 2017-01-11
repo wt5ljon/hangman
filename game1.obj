@@ -1,0 +1,38 @@
+--- !ruby/object:Game
+word: gastric
+guess: _as__i_
+letters:
+- ''
+- b
+- c
+- d
+- ''
+- f
+- g
+- h
+- ''
+- j
+- k
+- l
+- m
+- n
+- ''
+- p
+- q
+- r
+- ''
+- t
+- u
+- v
+- w
+- x
+- y
+- z
+guesses_remaining: 5
+correct_letters:
+- a
+- i
+- s
+incorrect_letters:
+- e
+- o
